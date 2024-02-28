@@ -3,22 +3,16 @@ CA-3 Assignment Repository
 
 Team Member: Andre Ashmeade, Nathan William , Douglas Farfan, Miguel Almonte
 
-Step 1 Login to github account to create a repository 
+Step 1 create repository on github 
 
-step 2 generate a empty readme file 
+Step 2 Download repository and use terminal to a make branch 
 
-step 3 automatically store repository to account 
+Step 3 Commit change with terminal command 
 
-step 4 Download repository files to system 
+Step 4 Push repository with terminal command 
+ 
+Step 5 All commit files are now stored in github 
 
-step 5 use terminal to manipulate the repository 
+Step 6 Readme file and changes are now in github 
 
-step 6 Make branch with git branch command 
 
-step 7 create new files and makes changes 
-
-step 8 commit files with git commit command
-
-step 9 push files with git push command 
-
-step 10 branch files now  available on github 
